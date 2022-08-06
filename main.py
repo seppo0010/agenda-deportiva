@@ -2,6 +2,7 @@ import requests
 import os
 import shutil
 import html
+from datetime import timedelta
 from ics import Calendar, Event
 
 OUT_DIR = os.environ.get('OUT_DIR', './out')
@@ -20,6 +21,7 @@ for fecha in agenda['fechas']:
                 name=evento['nombre'],
                 begin=evento['fecha'] + '-03:00',
                 description='\n'.join(map(lambda canal: canal['nombre'], evento['canales'])),
+                duration=timedelta(hours=2),
             ))
 
 shutil.rmtree(OUT_DIR, ignore_errors=True)
