@@ -16,7 +16,11 @@ for fecha in agenda['fechas']:
             torneos[torneo['nombre']] = Calendar()
         c = torneos[torneo['nombre']]
         for evento in torneo['eventos']:
-            c.events.add(Event(name=evento['nombre'], begin=evento['fecha'] + '-03:00'))
+            c.events.add(Event(
+                name=evento['nombre'],
+                begin=evento['fecha'] + '-03:00',
+                description='\n'.join(map(lambda canal: canal['nombre'], evento['canales'])),
+            ))
 
 shutil.rmtree(OUT_DIR, ignore_errors=True)
 os.mkdir(OUT_DIR)
