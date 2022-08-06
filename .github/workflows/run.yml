@@ -15,7 +15,7 @@ jobs:
       - name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
       - run: pipenv install
-      - run: python main.py
+      - run: pipenv run python main.py
       - name: Deploy ics
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
