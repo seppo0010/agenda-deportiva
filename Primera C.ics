@@ -4,19 +4,19 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20220914T183000Z
-SUMMARY:General Lamadrid vs Liniers
-UID:a391e22f-84d9-4fd2-b60d-4d8737b11d1a@a391.org
+SUMMARY:San Martín Burzaco vs Deportivo Español
+UID:80a897a0-040f-4b50-962b-a3c16b10ad34@80a8.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20220914T180000Z
 SUMMARY:Berazategui vs Excursionistas
-UID:0edea9c1-eb0f-4c18-9694-0645e7c6bea6@0ede.org
+UID:4fbfba52-006e-4d62-83d5-211f22e48c83@4fbf.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20220914T183000Z
-SUMMARY:San Martín Burzaco vs Deportivo Español
-UID:141fba1d-305e-4184-aefd-57b778c28193@141f.org
+SUMMARY:General Lamadrid vs Liniers
+UID:c3d3802f-eceb-461b-bd6d-c5c85da9a4e6@c3d3.org
 END:VEVENT
 END:VCALENDAR
