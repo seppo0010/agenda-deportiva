@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20220916T190000Z
-SUMMARY:Aston Villa vs Southampton
-UID:3879aaf7-b424-4d5b-82d6-2cde243dfb39@3879.org
+SUMMARY:Nottingham Forest vs Fulham
+UID:e4aea76b-fd43-4b93-8672-c3b6f9e34ac2@e4ae.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20220916T190000Z
-SUMMARY:Nottingham Forest vs Fulham
-UID:cd3b665c-1ee5-4926-b477-e2f0d6ecf357@cd3b.org
+SUMMARY:Aston Villa vs Southampton
+UID:e4b18b1d-86f5-4e1f-8c48-034997fc1f99@e4b1.org
 END:VEVENT
 END:VCALENDAR
