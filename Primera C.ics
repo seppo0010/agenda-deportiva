@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20221017T183000Z
-SUMMARY:Claypole vs San Martín Burzaco 
-UID:7c6a0c6e-fdb8-42f2-bb80-ff01e2cd92e8@7c6a.org
+SUMMARY:Atlas vs El Porvenir 
+UID:5dde0d29-7198-40ef-bcde-eda021bf737b@5dde.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20221017T183000Z
-SUMMARY:Atlas vs El Porvenir 
-UID:3f7e4105-c11f-4ee5-b559-33b9197bb7d0@3f7e.org
+SUMMARY:Claypole vs San Martín Burzaco 
+UID:b3f97abf-1ed4-4252-bd94-c2c29f922410@b3f9.org
 END:VEVENT
 END:VCALENDAR
