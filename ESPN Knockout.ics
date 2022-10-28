@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:ESPN Extra\nSTAR +
 DURATION:PT2H
-DTSTART:20221028T183000Z
-SUMMARY:Gloucester vs Exeter Chiefs
-UID:4df7b864-500f-4a41-bed2-c46113693e2a@4df7.org
+DTSTART:20221030T000000Z
+SUMMARY:Vasiliy Lomachenko vs Jamaine Ortiz
+UID:bdbd1ab6-24fa-40dc-8352-2fbcd1939df5@bdbd.org
 END:VEVENT
 END:VCALENDAR
