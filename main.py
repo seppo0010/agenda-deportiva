@@ -20,7 +20,7 @@ for fecha in agenda['fechas']:
         c = torneos[nombre]
         for evento in torneo['eventos']:
             c.events.add(Event(
-                name=nombre,
+                name=evento['nombre'],
                 begin=evento['fecha'] + '-03:00',
                 description='\n'.join(map(lambda canal: canal['nombre'], evento['canales'])),
                 duration=timedelta(hours=2),
