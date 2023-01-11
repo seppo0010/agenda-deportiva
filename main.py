@@ -14,12 +14,13 @@ agenda = req.json()
 torneos = {}
 for fecha in agenda['fechas']:
     for torneo in fecha['torneos']:
-        if torneo['nombre'] not in torneos:
-            torneos[torneo['nombre']] = Calendar()
-        c = torneos[torneo['nombre']]
+        nombre = torneo['nombre'].replace('/', '-')
+        if nombre not in torneos:
+            torneos[nombre] = Calendar()
+        c = torneos[nombre]
         for evento in torneo['eventos']:
             c.events.add(Event(
-                name=evento['nombre'],
+                name=nombre,
                 begin=evento['fecha'] + '-03:00',
                 description='\n'.join(map(lambda canal: canal['nombre'], evento['canales'])),
                 duration=timedelta(hours=2),
