@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:ESPN 2\nSTAR +
 DURATION:PT2H
-DTSTART:20230708T190000Z
-SUMMARY:Argentina vs. Nueva Zelanda
-UID:a3abf2a6-e936-4d7f-9f01-dd7a78e9a8df@a3ab.org
+DTSTART:20230709T235000Z
+SUMMARY:Estados Unidos vs. Canadá
+UID:3cbfcc15-8efc-4306-b68a-e241af0dae2f@3cbf.org
 END:VEVENT
 END:VCALENDAR
