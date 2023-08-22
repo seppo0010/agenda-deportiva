@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DGO\nESPN Extra\nSTAR +
 DURATION:PT2H
-DTSTART:20230822T000000Z
-SUMMARY:Baltimore Ravens vs. Washington Commanders
-UID:f78348fa-5861-48a9-8ca0-8df2b212ea16@f783.org
+DTSTART:20230825T000000Z
+SUMMARY:Philadelphia Eagles vs. Indianapolis Colts
+UID:602adde6-656e-4f2a-8fce-226e82a9a0d2@602a.org
 END:VEVENT
 END:VCALENDAR
