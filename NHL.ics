@@ -4,15 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:ESPN Extra\nSTAR +
 DURATION:PT2H
-DTSTART:20231025T003000Z
-SUMMARY:Chicago Blackhawks vs. Boston Bruins
-UID:db0f37ef-2a9c-4434-a194-8555baa3b678@db0f.org
+DTSTART:20231024T220000Z
+SUMMARY:Washington Capitals vs. Toronto Maple Leafs
+UID:6dc333f5-5911-4f46-ba2c-d91d895ae73f@6dc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ESPN Extra\nSTAR +
 DURATION:PT2H
-DTSTART:20231024T220000Z
-SUMMARY:Washington Capitals vs. Toronto Maple Leafs
-UID:3edc5cff-5243-4b0f-b3cf-4d12b4e0c9e6@3edc.org
+DTSTART:20231025T003000Z
+SUMMARY:Chicago Blackhawks vs. Boston Bruins
+UID:c8dd78ab-2603-4916-9aee-fdad91cc6f6a@c8dd.org
 END:VEVENT
 END:VCALENDAR
