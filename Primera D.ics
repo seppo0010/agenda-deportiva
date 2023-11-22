@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20231123T200000Z
-SUMMARY:Juventud Unida vs Argentino (R)
-UID:4dfb088b-693a-4807-8f25-b1be8d7c4bd1@4dfb.org
+SUMMARY:Centro Español vs Central Ballester
+UID:50fb5ded-9bf9-409c-a5a3-199504d4315a@50fb.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20231123T200000Z
-SUMMARY:Centro Español vs Central Ballester
-UID:2a738846-6596-4379-a5ae-295e8c141842@2a73.org
+SUMMARY:Juventud Unida vs Argentino (R)
+UID:7d0422cf-65fa-46c8-928f-f82ee7e22443@7d04.org
 END:VEVENT
 END:VCALENDAR
