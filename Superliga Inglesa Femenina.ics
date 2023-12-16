@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:STAR +
 DURATION:PT2H
-DTSTART:20231215T010000Z
-SUMMARY:Puestos 15 y 16 – Equipos a Confirmar
-UID:ed490000-edeb-4652-b17f-b5fedb9a894a@ed49.org
+DTSTART:20231217T122000Z
+SUMMARY:Manchester United vs. Liverpool
+UID:72c52fc4-a4a6-41cf-9ca9-125cccd05ec4@72c5.org
 END:VEVENT
 END:VCALENDAR
