@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:STAR +
 DURATION:PT2H
-DTSTART:20240207T194500Z
-SUMMARY:Saabrucken vs. Borussia Monchengladbach
-UID:c0df22d6-f734-430e-81d7-cb1e3d0ae6dd@c0df.org
+DTSTART:20240209T192000Z
+SUMMARY:Borussia Dortmund vs. Freiburg
+UID:e7ffe3ee-3c3d-4e05-8094-c1a38e8a35ef@e7ff.org
 END:VEVENT
 END:VCALENDAR
