@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:TYC SPORTS
+DURATION:PT2H
+DTSTART:20240324T023000Z
+SUMMARY:Kevin Muñoz vs Michell Banquez / José Arias vs Jorge Leyva / Sebastián Papeschi vs Eduardo Bloise
+UID:e2302649-552b-4f64-a81c-dfb0672fe89d@e230.org
+END:VEVENT
+END:VCALENDAR
