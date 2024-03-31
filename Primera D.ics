@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-DTSTART:20240330T183000Z
-SUMMARY: Provincial Lobos vs Dep. Metalúrgico
-UID:364b1b9e-bef1-48fb-accd-cb892ed8f78b@364b.org
+DTSTART:20240402T183000Z
+SUMMARY:Estrella Berisso vs Juventud Bernal
+UID:6aa1ff4e-2981-4492-85e9-41f214d9f8a5@6aa1.org
 END:VEVENT
 END:VCALENDAR
