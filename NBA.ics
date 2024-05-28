@@ -4,22 +4,22 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:STAR +
 DURATION:PT2H
-DTSTART:20240529T003000Z
-SUMMARY:Dallas Mavericks vs. Minnesota Timberwolves (final Conferencia Oeste)
-UID:56be198f-7056-4f7c-a3d6-84c2ec21c798@56be.org
+DTSTART:20240531T003000Z
+SUMMARY:Minnesota Timberwolves vs. Dallas Mavericks
+UID:c9b48aab-be30-4858-87f0-67eac288b23a@c9b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DGO\nESPN 2\nSTAR +
 DURATION:PT2H
 DTSTART:20240530T003000Z
 SUMMARY:Boston Celtics vs. Indiana Pacers (final Conferencia Este)
-UID:772d14ad-0201-4479-b216-cae53a83c106@772d.org
+UID:01b3c8b7-0ff7-469b-9126-7a5f257ecb14@01b3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:DGO\nESPN 2\nSTAR +
+DESCRIPTION:STAR +
 DURATION:PT2H
-DTSTART:20240528T000000Z
-SUMMARY:Indiana Pacers vs. Boston Celtics (final Conferencia Este)
-UID:87323636-3cfe-472f-a2f5-13bb5bd2d1d2@8732.org
+DTSTART:20240529T003000Z
+SUMMARY:Dallas Mavericks vs. Minnesota Timberwolves (final Conferencia Oeste)
+UID:ea735b8d-e942-48b6-8a2b-8c39d2c5860f@ea73.org
 END:VEVENT
 END:VCALENDAR
