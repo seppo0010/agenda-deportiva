@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Basquet Pass
+DURATION:PT2H
+DTSTART:20240610T003000Z
+SUMMARY:Final Nacional: Atenas vs. Racing de Chivilcoy (Juego 1)
+UID:fd9626ae-36a5-4134-8e7c-743aa59dd0b2@fd96.org
+END:VEVENT
+END:VCALENDAR
