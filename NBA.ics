@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DGO\nESPN 2\nSTAR +
 DURATION:PT2H
-DTSTART:20240615T002500Z
-SUMMARY:Dallas Mavericks vs. Boston Celtics
-UID:ed1c346a-c8c2-49fb-9a4a-4cfa39edf644@ed1c.org
+DTSTART:20240618T002500Z
+SUMMARY:Boston Celtics vs. Dallas Mavericks
+UID:d1c2bc66-4921-4b8a-8b7c-ebba4b7103a0@d1c2.org
 END:VEVENT
 END:VCALENDAR
