@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20240713T190000Z
-SUMMARY: Bahia vs Cuiaba
-UID:e4e1aaf8-6437-4dcf-ad11-d837a453db2e@e4e1.org
+SUMMARY: Cruzeiro vs Bragantino
+UID:049ea0b6-62f5-46b9-ab6e-c3661ddc3bfc@049e.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20240713T190000Z
-SUMMARY: Cruzeiro vs Bragantino
-UID:ab17bf28-073b-41a3-b955-4b77bbed69f1@ab17.org
+SUMMARY: Bahia vs Cuiaba
+UID:bea7246a-d59e-435d-973c-e95aed3f33b9@bea7.org
 END:VEVENT
 END:VCALENDAR
