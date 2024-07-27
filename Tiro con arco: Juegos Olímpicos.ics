@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:TV PUBLICA
 DURATION:PT2H
-DTSTART:20240728T080000Z
-SUMMARY:Sofía Fiora\, rondas preliminares
-UID:d5de35d7-cb24-4c03-aad0-a1bd492c4e7b@d5de.org
+DTSTART:20240730T100000Z
+SUMMARY:Mario Jajarabilla\, ronda eliminatoria 1/32
+UID:18f3890c-5fb0-4b9e-bdbc-e419c41d6da6@18f3.org
 END:VEVENT
 END:VCALENDAR
