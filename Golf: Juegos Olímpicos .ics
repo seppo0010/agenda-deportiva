@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:TV PUBLICA
 DURATION:PT2H
-DTSTART:20240730T100000Z
-SUMMARY:Mario Jajarabilla\, ronda eliminatoria 1/32
-UID:33f3a2a0-72e8-44f9-bede-bea029c4569e@33f3.org
+DTSTART:20240801T070000Z
+SUMMARY:Alejandro Tosti y Héctor Grillo\, individual masculino
+UID:396b9650-1b7b-4491-8916-ea57183d1d13@396b.org
 END:VEVENT
 END:VCALENDAR
