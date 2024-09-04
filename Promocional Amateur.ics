@@ -4,7 +4,7 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20240904T180000Z
-SUMMARY:Múñiz vs. Luján 
-UID:fa92bbfd-ec4c-40f8-9814-7d8d75989e71@fa92.org
+SUMMARY:Estrella de Berisso vs Defensores de Glew
+UID:9e934ebe-c52a-4752-ab8d-185e6dc40fc4@9e93.org
 END:VEVENT
 END:VCALENDAR
