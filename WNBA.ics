@@ -4,15 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:ESPN 2
 DURATION:PT2H
-DTSTART:20241009T000000Z
-SUMMARY:Semifinales: Minnesota Lynx vs. Connecticut Sun
-UID:e7eaf6c9-1915-4fe3-aa9a-0a0b005bd0d3@e7ea.org
+DTSTART:20241009T013000Z
+SUMMARY:Semifinales: Las Vegas Aces vs. New York Liberty
+UID:c0b86f02-7554-4238-a48b-ecfe67f422af@c0b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ESPN 2
 DURATION:PT2H
-DTSTART:20241009T013000Z
-SUMMARY:Semifinales: Las Vegas Aces vs. New York Liberty
-UID:1c5aeca6-2a48-40f5-b0ba-2cdce0672459@1c5a.org
+DTSTART:20241009T000000Z
+SUMMARY:Semifinales: Minnesota Lynx vs. Connecticut Sun
+UID:2cb3d5fd-84f3-4f3f-8388-1742df2b4fec@2cb3.org
 END:VEVENT
 END:VCALENDAR
