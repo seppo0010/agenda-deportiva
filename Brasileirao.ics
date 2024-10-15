@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20241017T004500Z
-SUMMARY:Sao Paulo vs Vasco da Gama
-UID:c7fd9414-f827-474a-92ed-0ef7864d0828@c7fd.org
+SUMMARY:Fortaleza vs Atl. Mineiro
+UID:8ffa6c6d-03b3-48b8-bbf4-0a4de4343f13@8ffa.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20241017T004500Z
-SUMMARY:Fortaleza vs Atl. Mineiro
-UID:0a6f54ef-727f-47ab-b6d7-6703defa070e@0a6f.org
+SUMMARY:Sao Paulo vs Vasco da Gama
+UID:2114bfba-0ed0-4bc5-8772-6f1800bc8b4e@2114.org
 END:VEVENT
 END:VCALENDAR
