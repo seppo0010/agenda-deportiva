@@ -3,14 +3,14 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-DTSTART:20241019T213000Z
-SUMMARY:Vasco da Gama vs. Atl. Mineiro
-UID:d19f54bb-3fbe-42ff-9f14-8a3caddeb3cd@d19f.org
+DTSTART:20241020T190000Z
+SUMMARY:Semifinal (vuelta): Corinthians (0) vs. Flamengo (1)
+UID:ae17bac8-1c92-46f5-935b-bece9627e8d0@ae17.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-DTSTART:20241020T190000Z
-SUMMARY:Semifinal (vuelta): Corinthians (0) vs. Flamengo (1)
-UID:e1245c3c-7aa7-418e-b17d-973482969864@e124.org
+DTSTART:20241019T213000Z
+SUMMARY:Vasco da Gama vs. Atl. Mineiro
+UID:ca0ec1b8-3251-4000-9257-718c37766e72@ca0e.org
 END:VEVENT
 END:VCALENDAR
