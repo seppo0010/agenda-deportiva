@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DURATION:PT2H
-DTSTART:20241020T190000Z
-SUMMARY:Semifinal (vuelta): Corinthians (0) vs. Flamengo (1)
-UID:aa0d3fb3-ff69-41c4-8a29-a493ad696e45@aa0d.org
-END:VEVENT
 END:VCALENDAR
