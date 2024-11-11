@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:TYC SPORTS
+DURATION:PT2H
+DTSTART:20241113T200000Z
+SUMMARY:Desempate por la Permanencia: Atlético de Rafaela vs. Talleres (RE)
+UID:df01f590-fac3-4190-8fd8-f339ce4ec6ee@df01.org
+END:VEVENT
+END:VCALENDAR
