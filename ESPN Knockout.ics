@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DISNEY +\nESPN 3
 DURATION:PT2H
-DTSTART:20241218T003000Z
-SUMMARY:Carolina Hurricanes vs. New York Islanders
-UID:ab90d0d2-15b1-4123-bf2d-a257d1ef79b5@ab90.org
+DTSTART:20241220T033000Z
+SUMMARY:Willbaldo Garcia Perez vs. Rene Calixto Bibiano
+UID:190521cf-aa7e-41d1-af23-cbd09b450a69@1905.org
 END:VEVENT
 END:VCALENDAR
