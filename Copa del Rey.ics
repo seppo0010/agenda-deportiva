@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Canal 116 Flow
 DURATION:PT2H
-DTSTART:20250401T193000Z
-SUMMARY:Real Madrid vs. Real Sociedad
-UID:c7882c32-b3e6-411d-a004-b34e8cb204d5@c788.org
+DTSTART:20250402T193000Z
+SUMMARY:Semifinal | Atlético Madrid vs. Barcelona
+UID:3c02df66-e7e3-456c-adca-a6dcc6f79f2c@3c02.org
 END:VEVENT
 END:VCALENDAR
