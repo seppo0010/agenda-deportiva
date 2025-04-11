@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM 
 DURATION:PT2H
-DTSTART:20250414T020000Z
-SUMMARY:Anaheim Ducks vs. Colorado Avalanche
-UID:8beb6ad2-cfc6-4a5a-b097-ef340a7ed7de@8beb.org
+DTSTART:20250412T220000Z
+SUMMARY:Preliminares y Alexander Volkanovski vs. Diego Lopes
+UID:b913fbc0-0bc4-48b0-80a7-828cf1cc5dc9@b913.org
 END:VEVENT
 END:VCALENDAR
