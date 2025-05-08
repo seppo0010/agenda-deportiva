@@ -5,14 +5,14 @@ BEGIN:VEVENT
 DESCRIPTION:DGO\nDISNEY +\nESPN 2
 DURATION:PT2H
 DTSTART:20250510T020000Z
-SUMMARY:Semifinal de Conferencia: Equipos a confirmar
-UID:0ad80a74-ca39-4e15-a3d2-93fb4ce07a5d@0ad8.org
+SUMMARY:Denver Nuggets vs. Oklahoma City Thunder
+UID:a2a22200-84be-481a-93bc-964452742f0e@a2a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DGO\nDISNEY +\nESPN 2
 DURATION:PT2H
 DTSTART:20250509T233000Z
-SUMMARY:Semifinal de Conferencia: Equipos a confirmar
-UID:21bbec1b-d914-4043-a8bd-e07935243895@21bb.org
+SUMMARY:Indiana Pacers vs. Cleveland Cavaliers
+UID:cc9c086c-c8f6-4249-9ba9-6e3f7ed35e90@cc9c.org
 END:VEVENT
 END:VCALENDAR

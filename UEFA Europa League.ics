@@ -5,14 +5,14 @@ BEGIN:VEVENT
 DESCRIPTION:DGO\nDISNEY + PREMIUM \nESPN 2
 DURATION:PT2H
 DTSTART:20250508T190000Z
-SUMMARY:Bodo/Glimt vs. Tottenham
-UID:645d5bd7-91a4-4cbe-80f8-fe9ba83ee79f@645d.org
+SUMMARY:Semifinal\, vuelta: Bodo/Glimt (1) vs. Tottenham (3)
+UID:e2a51107-36c6-4f24-be7e-ebe9ff97bf13@e2a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DGO\nDISNEY +\nESPN
 DURATION:PT2H
 DTSTART:20250508T190000Z
-SUMMARY:Manchester United vs. Athletic Bilbao
-UID:6569a2be-94ff-4010-9ed1-320abe54b4aa@6569.org
+SUMMARY:Semifinal\, vuelta: Manchester United (3) vs. Athletic Bilbao (0)
+UID:3b95f596-02fa-484c-8dad-3cac8db9d56d@3b95.org
 END:VEVENT
 END:VCALENDAR
