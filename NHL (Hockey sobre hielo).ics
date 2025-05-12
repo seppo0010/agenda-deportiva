@@ -4,15 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM \nESPN 4
 DURATION:PT2H
-DTSTART:20250513T013000Z
-SUMMARY:Semifinal de Conferencia – Edmonton Oilers vs. Vegas Golden Knights
-UID:9a11bde1-b9b9-4d04-a27c-5a9f29caae5b@9a11.org
+DTSTART:20250512T230000Z
+SUMMARY:Semifinal de Conferencia – Carolina Hurricanes vs. Washington Capitals
+UID:f792ed40-b694-494f-9854-ea26d3390637@f792.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM \nESPN 4
 DURATION:PT2H
-DTSTART:20250512T230000Z
-SUMMARY:Semifinal de Conferencia – Carolina Hurricanes vs. Washington Capitals
-UID:bb7404f2-d743-44fa-bfa9-507bb5c242f7@bb74.org
+DTSTART:20250513T013000Z
+SUMMARY:Semifinal de Conferencia – Edmonton Oilers vs. Vegas Golden Knights
+UID:0f887546-45ab-469a-ad2d-700ee12f6b9b@0f88.org
 END:VEVENT
 END:VCALENDAR
