@@ -2,10 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:DISNEY + PREMIUM 
+DURATION:PT2H
+DTSTART:20250524T000000Z
+SUMMARY:Final de conferencia\, Juego #2: Indiana Pacers vs. New York Knicks
+UID:c50d3f7a-5311-4616-bc49-27f1fdec05f9@c50d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DISNEY + PREMIUM 
+DURATION:PT2H
+DTSTART:20250522T000000Z
+SUMMARY:Final de conferencia\, Juego #1: Indiana Pacers vs. New York Knicks
+UID:bdcaa0b3-6eb6-4ce1-b043-84a1908bed2a@bdca.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM \nESPN 2
 DURATION:PT2H
-DTSTART:20250521T003000Z
-SUMMARY:Final de conferencia\, Juego #1:   Minnesota Timberwolves vs. Oklahoma City Thunder
-UID:e814dded-c6ab-4f89-8fcf-1f5e6ae5ebde@e814.org
+DTSTART:20250523T003000Z
+SUMMARY:Final de conferencia\, Juego #2:   Minnesota Timberwolves vs. Denver Nuggets
+UID:3c3ee693-d017-45d4-b788-598dd22cde34@3c3e.org
 END:VEVENT
 END:VCALENDAR
