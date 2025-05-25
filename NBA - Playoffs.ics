@@ -4,29 +4,22 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM 
 DURATION:PT2H
-DTSTART:20250528T003000Z
-SUMMARY:Final de conferencia\, Juego #4: Indiana Pacers vs. New York Knicks
-UID:3aaa1a8c-4943-4684-9b79-3d46b91de7e9@3aaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DGO\nDISNEY + PREMIUM \nESPN 2
-DURATION:PT2H
-DTSTART:20250525T003000Z
-SUMMARY:Final de Conferencia Oeste: Minnesota Timberwolves vs. Oklahoma City Thunder
-UID:9bf93e90-ae23-46b3-b760-df3cbd8a882a@9bf9.org
+DTSTART:20250526T003000Z
+SUMMARY: Final de conferencia\, Juego #3: Indiana Pacers vs. New York Knicks
+UID:e763169c-110d-4500-8a1f-2c1082dcadf6@e763.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM \nESPN 2
 DURATION:PT2H
 DTSTART:20250527T003000Z
 SUMMARY:Final de conferencia\, Juego #4: Minnesota Timberwolves vs. Oklahoma City Thunder
-UID:54dcf145-1f3e-4e22-abf4-78a259da8333@54dc.org
+UID:c92488c8-a571-462b-a28f-9cc6f40c6f28@c924.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM 
 DURATION:PT2H
-DTSTART:20250526T003000Z
-SUMMARY: Final de conferencia\, Juego #3: Indiana Pacers vs. New York Knicks
-UID:ee175bcf-1399-4753-bf2b-83e515740216@ee17.org
+DTSTART:20250528T003000Z
+SUMMARY:Final de conferencia\, Juego #4: Indiana Pacers vs. New York Knicks
+UID:95448f5d-94da-400e-a03b-ce31bb0e8bd4@9544.org
 END:VEVENT
 END:VCALENDAR
