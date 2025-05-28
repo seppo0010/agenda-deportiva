@@ -5,14 +5,14 @@ BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM \nESPN 2
 DURATION:PT2H
 DTSTART:20250529T003000Z
-SUMMARY:Oklahoma City Thunder vs. Minnesota Timberwolves
-UID:01e5b8e3-c4d7-4806-9ed8-8f4f0db6f055@01e5.org
+SUMMARY:Final de conferencia\, juego #5: Oklahoma City Thunder vs. Minnesota Timberwolves
+UID:71037105-d0ba-4532-adc2-72f49d4a1293@7103.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM \nESPN 2
 DURATION:PT2H
 DTSTART:20250530T003000Z
-SUMMARY:New York Knicks vs. Indiana Pacers
-UID:6071aa45-1f50-4831-bab4-e1d6f95a139d@6071.org
+SUMMARY:Final de Conferencia\, juego #5: New York Knicks vs. Indiana Pacers
+UID:865608d0-5e53-4a0f-820a-158e8964c365@8656.org
 END:VEVENT
 END:VCALENDAR
