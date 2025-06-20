@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DISNEY + PREMIUM \nESPN 2
 DURATION:PT2H
-DTSTART:20250620T002500Z
-SUMMARY:Indiana Pacers vs. Oklahoma City Thunders (Juego #6)
-UID:61e838cf-d6a9-4de6-8826-324ce7f2a392@61e8.org
+DTSTART:20250622T170000Z
+SUMMARY:Travelers Championship: Última Vuelta
+UID:cc24dfc9-7dac-43b4-bbe9-abd09197e403@cc24.org
 END:VEVENT
 END:VCALENDAR
