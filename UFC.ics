@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DGO\nFOX SPORTS
 DURATION:PT2H
-DTSTART:20250802T000000Z
-SUMMARY:Final\, juego 2: Vélez vs. Ciudad
-UID:d4e9d386-58da-463d-80be-d9e5f441398a@d4e9.org
+DTSTART:20250802T220000Z
+SUMMARY:Preliminares y Hyun Sung Park	vs.	Tatsuro Taira
+UID:0a72eeaf-bb52-40b7-aebc-5e70b7b0ac3d@0a72.org
 END:VEVENT
 END:VCALENDAR
