@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:DSPORTS / DGO
 DURATION:PT2H
-DTSTART:20250928T203000Z
-SUMMARY:Cuartos de Final\, vuelta: Atlético de Rafaela vs. Olimpo
-UID:edda5a9e-ef85-4366-a76e-b43badbb7c04@edda.org
+DTSTART:20251003T003000Z
+SUMMARY:Obras vs. Regatas
+UID:b4a6bf70-afc2-4185-af3f-03b90f1971bc@b4a6.org
 END:VEVENT
 END:VCALENDAR
