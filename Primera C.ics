@@ -3,14 +3,14 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT2H
-DTSTART:20251029T230500Z
-SUMMARY:Semifinal - Ituzaingó (1) vs. (0) Deportivo Español
-UID:a48becf2-4282-45f6-a6cd-a7a44fc8f6ee@a48b.org
+DTSTART:20251029T183000Z
+SUMMARY:Semifinal - Sportivo Barracas (0) vs. (1) Leandro N. Alem
+UID:0c2e457a-9da6-4210-b172-31218550a218@0c2e.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
-DTSTART:20251029T183000Z
-SUMMARY:Semifinal - Sportivo Barracas (0) vs. (1) Leandro N. Alem
-UID:6204e5e0-d4a1-49d8-9635-ee05602ded24@6204.org
+DTSTART:20251029T230500Z
+SUMMARY:Semifinal - Ituzaingó (1) vs. (0) Deportivo Español
+UID:adff3fb2-e20d-4ca3-af61-d59acf13140e@adff.org
 END:VEVENT
 END:VCALENDAR
