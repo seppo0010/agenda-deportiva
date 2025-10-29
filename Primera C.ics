@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20251029T183000Z
 SUMMARY:Semifinal - Sportivo Barracas (0) vs. (1) Leandro N. Alem
-UID:0c2e457a-9da6-4210-b172-31218550a218@0c2e.org
+UID:a231f905-d31f-4965-b2cd-3b70e5c6dcd2@a231.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT2H
 DTSTART:20251029T230500Z
 SUMMARY:Semifinal - Ituzaingó (1) vs. (0) Deportivo Español
-UID:adff3fb2-e20d-4ca3-af61-d59acf13140e@adff.org
+UID:56f3fcee-9b7c-43fe-ac1e-cab33562af9e@56f3.org
 END:VEVENT
 END:VCALENDAR
