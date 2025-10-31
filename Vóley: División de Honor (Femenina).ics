@@ -4,15 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:FOX SPORTS 2
 DURATION:PT2H
-DTSTART:20251031T220000Z
-SUMMARY:Cuartos de Final (Vuelta) - Ferro vs. River Plate
-UID:c25aadd5-1f29-4fbf-a51a-abdcc5082989@c25a.org
+DTSTART:20251101T000000Z
+SUMMARY:Cuartos de Final (Vuelta) - Gimnasia LP vs. Estudiantes LP
+UID:5407020d-e576-4e07-9f43-2eb1e4d67708@5407.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:FOX SPORTS 2
 DURATION:PT2H
-DTSTART:20251101T000000Z
-SUMMARY:Cuartos de Final (Vuelta) - Gimnasia LP vs. Estudiantes LP
-UID:fd45387a-2658-4190-ba4a-6757913bd42e@fd45.org
+DTSTART:20251031T220000Z
+SUMMARY:Cuartos de Final (Vuelta) - Ferro vs. River Plate
+UID:f9c0d3dc-b936-40b5-bc2d-8aefc41df446@f9c0.org
 END:VEVENT
 END:VCALENDAR
