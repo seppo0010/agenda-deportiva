@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:TYC SPORTS
 DURATION:PT2H
-DTSTART:20251102T013000Z
-SUMMARY:Leandro Blanc vs. Joel Contreras
-UID:4c256d44-feb7-4e62-816c-a37c0efbfe37@4c25.org
+DTSTART:20251106T001000Z
+SUMMARY:Independiente Rivadavia de Mendoza vs. Argentinos Juniors
+UID:782da709-a8b8-4d17-97bd-df29d1da9350@782d.org
 END:VEVENT
 END:VCALENDAR
